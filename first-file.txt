@@ -16,3 +16,5 @@ dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
 
 Directly pushing some code to main
 to understand what is git fetch
+
+adding new chnages without pull/ push
