@@ -25,3 +25,7 @@ tag concept
 
 
 tag new commit changes
+
+
+
+adding new commit for tag version 0.0.2
