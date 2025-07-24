@@ -21,3 +21,7 @@ adding new chnages without pull/ push
 
 
 tag concept
+
+
+
+tag new commit changes
