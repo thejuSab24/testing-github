@@ -29,3 +29,5 @@ tag new commit changes
 
 
 adding new commit for tag version 0.0.2
+
+adding new commit after v0.0.2 without tag
